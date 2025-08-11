@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Display success message
-        run: echo "Poster Uploaded Successfully"
+        run: echo "Poster Uploaded Successfully" 
